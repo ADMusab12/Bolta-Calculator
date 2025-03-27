@@ -3,8 +3,7 @@
 BoltaCalculator is an innovative Android application that combines voice recognition with AI-powered calculations, supporting both English and Urdu languages. Speak your math problems and get spoken answers!
 
 ## ▶️ Demo
-![BoltaCalculator Demo](![bolta calculator](https://github.com/user-attachments/assets/e691fa43-49c0-44e6-86a0-2c30ac5708a5)
-)
+<img src="[https://raw.githubusercontent.com/your-username/your-repo/main/demo.gif](https://github.com/user-attachments/assets/e691fa43-49c0-44e6-86a0-2c30ac5708a5)" width="600" height="400" alt="BoltaCalculator Demo">
 
 
 ## ✨ Features
